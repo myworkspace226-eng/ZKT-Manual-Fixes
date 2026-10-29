@@ -1,0 +1,6 @@
+{
+  "name": "ZKT Biometric Cloud - نظام إدارة البصمة والحضور",
+  "description": "نظام ذكي متكامل لإدارة أجهزة البصمة ZKTeco، الربط السحابي، متابعة عمال مصانع الملابس، والتنبيهات والتقارير الفورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
